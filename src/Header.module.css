@@ -1,0 +1,18 @@
+.globe {
+  height: 20px;
+  margin-right: 10px;
+}
+
+.navBar {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: #f1f1f1;
+}
+
+.navContent {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
