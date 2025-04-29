@@ -27,11 +27,13 @@
 
 .location > :nth-child(1) {
   margin-right: 10px;
+  opacity: 50%;
 }
 
 .location > :nth-child(2) {
   margin-right: 20px;
   letter-spacing: 3px;
+  text-transform: uppercase;
 }
 
 .location > :nth-child(3) {
